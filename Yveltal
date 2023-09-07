@@ -1,0 +1,22 @@
+{
+	name:Yveltal;
+	description: A theme made by ZG468;
+	authors: [ 
+	{
+			name: ZG 468;
+		  id: 763189595504115762;
+	}
+],
+spec: 2;
+semanticColors: { 
+							"HEADER_PRIMARY":  ["#EFDFD7", "#E7D6CE", "#A07D6C"]
+									                  //Dark theme, light, amoled   
+rawColors: { 
+					"PRIMARY_500": "292a28"
+},
+"background": {
+    "blur": 0.6,
+    "url": "https://i.im.ge/2022/07/29/FwXbgD.jpg",
+    "alpha": 0.4
+    },
+}
